@@ -1,0 +1,12 @@
+A Caesar cipher is one of the simplest and oldest methods of encrypting text. It’s named after Julius Caesar, who reportedly used it to send secret military messages.
+
+How it works
+
+You take each letter in a message and shift it a fixed number of positions forward (or backward) in the alphabet.
+
+Example with a shift of +3:
+A → D
+B → E
+C → F
+…
+X → A (wraps around)
